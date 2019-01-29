@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Завдання: CE-1257218</string>
+    <string name="text1">Комунальне господарство</string>
+    <string name="text2">Створено</string>
+    <string name="text4">Виконати до</string>
+    <string name="text5">"Відповідальний "</string>
+    <string name="text3">Зареєстровано</string>
+    <string name="text6">Дніпровський МВК</string>
+    <string name="text7">В роботі</string>
+    <string name="data_text1">27 січня 2016</string>
+    <string name="long_text">Колись то давно, не з моєї пам\'яті мабуть ще й батьків і дідів наших не було на світі, жив собі убогий чоловік з жінкою, а у них був одним один син, та й той не такий як треба: ледащо той одинчик, що господи!</string>
+    <string name="itemname_1">Контакти</string>
+    <string name="itemname_2">Довідка</string>
+    <string name="itemname_3">Налаштування</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ForModule3</string>
+    <string name="text1">Комунальное хозяйство</string>
+    <string name="text2">Создано</string>
+    <string name="text3">Зарегистрировано</string>
+    <string name="text4">Исполнить до</string>
+    <string name="text5">Ответственый</string>
+    <string name="text6">Днепровский МВК</string>
+    <string name="text7">В роботе</string>
+    <string name="data_text1">27 января 2016</string>
+    <string name="long_text">" Когда то давно, не по моей памяти пожалуй еще и родителей и дедов наших не было на свете, жил бедный мужчина с женщиной, а у них был одним один сын, да и тот не такой как надо: лентяй то одинчик, что господи!"</string>
+    <string name="itemname_1">Контакты</string>
+    <string name="itemname_2">Справка</string>
+    <string name="itemname_3">Настройки</string>
+</resources>
